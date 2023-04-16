@@ -1,8 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prabin Shrestha
 =======================================================================================================================================
 
-IT Head at Arniko International SS & College
---------------------------------------------
 
 * 🌍  I'm based in Nepal
 * ✉️  You can contact me at [prabin@arniko.edu.np](mailto:prabin@arniko.edu.np)
