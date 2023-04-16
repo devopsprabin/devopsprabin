@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 * 🌍  I'm based in Nepal
-* ✉️  You can contact me at [prabin@arniko.edu.np](mailto:prabin@arniko.edu.np)
+* ✉️  You can contact me at [prabinshrestha.devops@gmail.com](mailto:prabinshrestha.devops@gmail.com)
 <!--
 **prabinarniko/prabinarniko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
